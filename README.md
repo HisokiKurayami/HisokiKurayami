@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HisokiKurayami
-- 👀 I’m interested in Desktop App Development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on building Desktop Apps
+- 👋 Hi, I’m Hisoki Kurayami
+- 👀 I’m interested in low-end development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on building Mobile Apps
 - 📫 How to reach me ...
 
 <!---
